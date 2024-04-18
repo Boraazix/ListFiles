@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             PnlMain = new Panel();
             GrpParameters = new GroupBox();
             ChkType = new CheckBox();
@@ -135,7 +136,7 @@
             BtnGenerateList.TabIndex = 5;
             BtnGenerateList.Text = "Gerar lista";
             BtnGenerateList.UseVisualStyleBackColor = true;
-            BtnGenerateList.Click += this.BtnGenerateList_Click;
+            BtnGenerateList.Click += BtnGenerateList_Click;
             // 
             // LblIgnoreAtTheFinal
             // 
@@ -213,6 +214,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(423, 179);
             Controls.Add(PnlMain);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MaximumSize = new Size(439, 218);
+            MinimumSize = new Size(439, 218);
             Name = "FormMain";
             Text = "Listar Arquivos";
             PnlMain.ResumeLayout(false);

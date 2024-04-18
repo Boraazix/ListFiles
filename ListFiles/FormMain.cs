@@ -26,7 +26,16 @@ namespace ListFiles
         }
         private void BtnGenerateList_Click(object sender, EventArgs e)
         {
-            FormOutput.GetInstance().Show();
+            if(!Directory.Exists(TxtFolder.Text))
+            {
+                MessageBox.Show("Selecione um caminho válido!", "Algo está errado :/", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                TxtFolder.Focus();
+                TxtFolder.SelectAll();
+            }
+            else
+            {
+                FormOutput.GetInstance(TxtFolder.Text, Convert.ToInt32(NudIgnoreAtFirst.Value), Convert.ToInt32(NudIgnoreAtTheFinal.Value), ChkEnum.Checked, TxtSeparator.Text, ChkType.Checked).Show();
+            }
         }
 
         private void ChkEnum_CheckedChanged(object sender, EventArgs e)

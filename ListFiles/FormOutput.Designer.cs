@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormOutput));
             PnlMain = new Panel();
             LblCopied = new Label();
             BtnCopy = new Button();
@@ -97,6 +98,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(516, 415);
             Controls.Add(PnlMain);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MaximumSize = new Size(532, 454);
+            MinimumSize = new Size(532, 454);
             Name = "FormOutput";
             Text = "Lista";
             PnlMain.ResumeLayout(false);

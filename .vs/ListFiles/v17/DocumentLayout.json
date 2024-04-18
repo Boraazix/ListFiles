@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\russe\\source\\repos\\ListFiles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|c:\\users\\russe\\source\\repos\\listfiles\\listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|C:\\Users\\russe\\source\\repos\\ListFiles\\listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|c:\\users\\russe\\source\\repos\\listfiles\\listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|c:\\users\\russe\\source\\repos\\listfiles\\listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|C:\\Users\\russe\\source\\repos\\ListFiles\\listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|c:\\users\\russe\\source\\repos\\listfiles\\listfiles\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|C:\\Users\\russe\\source\\repos\\ListFiles\\listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|C:\\Users\\russe\\source\\repos\\ListFiles\\listfiles\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|C:\\Users\\russe\\source\\repos\\ListFiles\\listfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|c:\\users\\russe\\source\\repos\\listfiles\\listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4E5AE5B-43A0-4945-A314-5FAC90451165}|ListFiles\\ListFiles.csproj|solutionrelative:listfiles\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormOutput.cs",
               "DocumentMoniker": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormOutput.cs",
               "RelativeDocumentMoniker": "ListFiles\\FormOutput.cs",
               "ToolTip": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormOutput.cs",
               "RelativeToolTip": "ListFiles\\FormOutput.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAwwCUAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDAAAACdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:48:57.723Z",
               "EditorCaption": ""
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\Program.cs",
               "RelativeDocumentMoniker": "ListFiles\\Program.cs",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "ListFiles\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T16:45:23.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T16:45:23.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "ListFiles\\FormMain.Designer.cs",
@@ -89,20 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormMain.cs",
               "RelativeDocumentMoniker": "ListFiles\\FormMain.cs",
               "ToolTip": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormMain.cs",
               "RelativeToolTip": "ListFiles\\FormMain.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwCIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T16:43:33.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormMain.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\russe\\source\\repos\\ListFiles\\ListFiles\\FormMain.cs",
               "RelativeDocumentMoniker": "ListFiles\\FormMain.cs",
