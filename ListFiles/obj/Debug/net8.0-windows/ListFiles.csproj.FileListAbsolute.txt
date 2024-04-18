@@ -14,3 +14,5 @@ C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFil
 C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.genruntimeconfig.cache
 C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ref\ListFiles.dll
 C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.FormMain.resources
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.FormOutput.resources
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.sourcelink.json

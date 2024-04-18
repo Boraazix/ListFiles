@@ -135,6 +135,7 @@
             BtnGenerateList.TabIndex = 5;
             BtnGenerateList.Text = "Gerar lista";
             BtnGenerateList.UseVisualStyleBackColor = true;
+            BtnGenerateList.Click += this.BtnGenerateList_Click;
             // 
             // LblIgnoreAtTheFinal
             // 
