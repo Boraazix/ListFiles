@@ -1,0 +1,16 @@
+C:\Users\russe\source\repos\ListFiles\ListFiles\bin\Debug\net8.0-windows\ListFiles.exe
+C:\Users\russe\source\repos\ListFiles\ListFiles\bin\Debug\net8.0-windows\ListFiles.deps.json
+C:\Users\russe\source\repos\ListFiles\ListFiles\bin\Debug\net8.0-windows\ListFiles.runtimeconfig.json
+C:\Users\russe\source\repos\ListFiles\ListFiles\bin\Debug\net8.0-windows\ListFiles.dll
+C:\Users\russe\source\repos\ListFiles\ListFiles\bin\Debug\net8.0-windows\ListFiles.pdb
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.csproj.GenerateResource.cache
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.AssemblyInfoInputs.cache
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.AssemblyInfo.cs
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.csproj.CoreCompileInputs.cache
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.dll
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\refint\ListFiles.dll
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.pdb
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.genruntimeconfig.cache
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ref\ListFiles.dll
+C:\Users\russe\source\repos\ListFiles\ListFiles\obj\Debug\net8.0-windows\ListFiles.FormMain.resources
